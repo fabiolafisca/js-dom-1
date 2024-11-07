@@ -20,4 +20,3 @@ function accensione () {
 }
 
 buttoneAccendere.addEventListener("click", accensione);
-
